@@ -13,8 +13,8 @@ This week we will practice how to do geocoding and spatial joins in Geopandas.
 ## Sections
 
  - [Problem 1: Geocode shopping centers](#problem-1-geocode-shopping-centers)
- - [Problem 2: Create buffers around shopping centers](#problem-2-points-to-map)
- - [Problem 3: How many people live within 5 km from shopping centers?](#problem-3-movements-of-individual-user-optional-task-for-advanced-students)
+ - [Problem 2: Create buffers around shopping centers](#problem-2-create-buffers-around-shopping-centers)
+ - [Problem 3: How many people live within 5 km from shopping centers?](#problem-3-how-many-people-live-within-5-km-from-shopping-centers)
 
 ## Problem 1: Geocode shopping centers
 
