@@ -15,6 +15,7 @@ This week we will practice how to do geocoding and spatial joins in Geopandas. T
  - [Problem 1: Geocode shopping centers](#problem-1-geocode-shopping-centers)
  - [Problem 2: Create buffers around shopping centers](#problem-2-create-buffers-around-shopping-centers)
  - [Problem 3: How many people live within 5 km from shopping centers?](#problem-3-how-many-people-live-within-5-km-from-shopping-centers)
+ - [Hints](#Hints)
 
 ## Problem 1: Geocode shopping centers
 
@@ -53,4 +54,14 @@ Let's continue with our case study and calculate a 5 km `buffer` around the poin
   - You only need to use the `distance` -parameter, don't care about the other parameters.
   
 ## Problem 3: How many people live within 5 km from shopping centers?
+
+Last step in our analysis is to make a spatial join between our point-buffer layer and the same population grid that was [used in the lesson materials](https://automating-gis-processes.github.io/2016/Lesson3-spatial-join.html#download-and-clean-the-data).
+
+**Steps**
+
+-  
+
+## Hints
+
+See hints for this exercise from [here](https://github.com/Automating-GIS-processes/Lesson-3-Geocoding-Spatial-Queries/blob/master/Lesson/Lesson-3-hints.md)
 
