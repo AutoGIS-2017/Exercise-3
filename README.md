@@ -41,6 +41,16 @@ Use same kind of formatting for the text file as in the [lesson materials](https
 
 ## Problem 2: Create buffers around shopping centers
 
+Let's continue with our case study and calculate a 5 km `buffer` around the points. 
 
+**Steps**
 
+- Create a new column called `buffer` to your shopping-centers GeoDataFrame (or whatever you call it)
+
+- Iterate over the rows in your GeoDataFrame and update the `buffer` column with a 0.05 decimal degree (approx. 5 km) buffer Polygon.
+  
+  - Use Shapely's [buffer](http://toblerity.org/shapely/manual.html#object.buffer) function to create it (see the link for details how to use it)
+  - You only need to use the `distance` -parameter, don't care about the other parameters.
+  
 ## Problem 3: How many people live within 5 km from shopping centers?
+
