@@ -1,6 +1,6 @@
 # Exercise 3: Geocoding and spatial join
 
-This week we will practice how to do geocoding and spatial joins in Geopandas. The overall aim this week is to make practical study to find out how many people live within 5 km (Euclidian) distance from big shopping centers in Helsinki Region. 
+This week we will practice how to do geocoding and spatial joins in Geopandas. The overall aim this week is to make practical study to find out how many people live within 5 km (Euclidian) distance from big shopping centers in Helsinki Region. The exercise might be a rather demanding one, so don't panic, we will go through the exercise carefully in the following weeks. 
 
 ### Due dates
  
