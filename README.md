@@ -4,13 +4,11 @@ This week we will practice how to do geocoding and spatial joins in Geopandas. T
 
 *The exercise might be a rather demanding one, so don't panic, we will go through the exercise carefully in the following weeks.*
 
-### Due dates
- 
- - 100 % of point total if you return your solution within 1 week (due date 21.11.2016) 
- - 85 % of point total if your return your solution within 2 weeks (due date 28.11.2016)
-   - Detailed hints provided
- - 50 % of point total if you return your solution within 3 weeks (due date 05.12.2016)
-   - Full solution provided
+- **Exercise 3 is due by the start of lecture on xx.11**.
+
+- Don't forget to check out the [hints for this week's exercise](https://automating-gis-processes.github.io/2017/lessons/L3/exercise-3-hints.html) if you're having trouble.
+
+- Scores on this exercise are out of **20 points**.
 
 ## Sections
 
