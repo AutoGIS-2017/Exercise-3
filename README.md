@@ -4,7 +4,7 @@ This week we will practice how to do geocoding and spatial joins in Geopandas. T
 
 *The exercise might be a rather demanding one, so don't panic, we will go through the exercise carefully in the following weeks.*
 
-- **Exercise 3 is due by the start of lecture on 27.11**.
+- **Exercise 3 is due by the start of lecture on 20.11**.
 
 - Don't forget to check out the [hints for this week's exercise](https://automating-gis-processes.github.io/2017/lessons/L3/exercise-3-hints.html) if you're having trouble.
 
