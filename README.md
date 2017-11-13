@@ -10,10 +10,10 @@ This week we will practice how to do geocoding, spatial joins and nearest neighb
 
 ## Sections
 
- - [Problem 1: Geocode shopping centers](#problem-1-geocode-shopping-centers)
- - [Problem 2: Create buffers around shopping centers](#problem-2-create-buffers-around-shopping-centers)
- - [Problem 3: How many people live within 5 km from shopping centers?](#problem-3-how-many-people-live-within-5-km-from-shopping-centers)
- - 
+ - [Problem 1: Geocode shopping centers](#problem-1-geocode-shopping-centers-5-points)
+ - [Problem 2: Create buffers around shopping centers](#problem-2-create-buffers-around-shopping-centers-5-points)
+ - [Problem 3: How many people live within 5 km from shopping centers?](#problem-3-how-many-people-live-within-5-km-from-shopping-centers-5-points)
+ - [Problem 4: What is the closest shopping center from your home / work?](#problem-4-what-is-the-closest-shopping-center-from-your-home--work-5-points)
  - [Answers](#answers)
  
 You can write all your codes into the same script called `spatial_queries.py`. If you want, you can also write your codes to multiple scripts, but remember then to name and comment your codes well with docstrings explaining which script belongs to which problem!
